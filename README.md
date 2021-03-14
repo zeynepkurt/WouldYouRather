@@ -8,6 +8,6 @@ In your app, users will be able to answer questions, see which questions they ha
 
 Clone Would-You-Rather project:  https://github.com/zeynepkurt/WouldYouRather
 
-install all project dependencies with npm install
-start the app with with npm start ( Runs the app in the development mode.)
+install all project dependencies with yarn install
+start the app  with yarn start 
 Open http://localhost:3000 to view it in the browser.
