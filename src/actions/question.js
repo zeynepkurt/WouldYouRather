@@ -3,7 +3,7 @@ export const RECEIVE_QUESTIONS = 'RECEIVE_QUESTIONS';
 export const ANSWER_QUESTION = 'ANSWER_QUESTION';
 
 
-export function newQuestion (question) {
+export function newQuestion (question) { //zeynep
 	return {
     	type: NEW_QUESTION,
       	question,
