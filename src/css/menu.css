@@ -1,0 +1,43 @@
+.body{
+       
+    margin-top: 90px;
+  }
+  
+  .uppermenu li{
+   overflow: hidden;
+    list-style-type: none;
+    background-color: purple;
+    padding: 0px;
+    width: 200px;
+    height: 50px;
+    margin: 5px;
+    font-size: 20px;
+    font-family: calibri,arial,verdana;
+    line-height: 50px;
+    float: left;
+  }
+  
+  .uppermenu a{
+    padding-top: 5px;
+    text-decoration: none;
+    color: darkgrey;
+    display: block; 
+     text-align: center;
+    transition: 1s; 
+    
+  }
+  
+   .uppermenu span{
+    display: block;
+    margin-top:-60px;
+  }
+  
+  uppermenu a:hover{
+   
+    color: white;
+    margin-top:55px;
+    
+    
+  }      
+  
+   
